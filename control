@@ -1,0 +1,10 @@
+Package: com.wizage.flatchat
+Name: FlatChat
+Depends: mobilesubstrate
+Version: 0.1~Beta1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wizage
+Author: wizages <wizagesmax@gmail.com>
+Section: Tweaks
+Depiction: http://wizages.com/cydia/depictions/?dep=com.wizage.flatchat
